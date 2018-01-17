@@ -1,0 +1,64 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.1.2590",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Luminous",
+  "version": "0.1",
+  "author": "simonmeskens",
+  "files": [
+    {
+      "projectID": 238222,
+      "fileID": 2511052,
+      "required": true
+    },
+    {
+      "projectID": 267602,
+      "fileID": 2519601,
+      "required": true
+    },
+    {
+      "projectID": 235279,
+      "fileID": 2516679,
+      "required": true
+    },
+    {
+      "projectID": 274456,
+      "fileID": 2521008,
+      "required": true
+    },
+    {
+      "projectID": 283615,
+      "fileID": 2518958,
+      "required": true
+    },
+    {
+      "projectID": 74924,
+      "fileID": 2474052,
+      "required": true
+    },
+    {
+      "projectID": 74072,
+      "fileID": 2518400,
+      "required": true
+    },
+    {
+      "projectID": 272671,
+      "fileID": 2508767,
+      "required": true
+    },
+    {
+      "projectID": 250850,
+      "fileID": 2489292,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}

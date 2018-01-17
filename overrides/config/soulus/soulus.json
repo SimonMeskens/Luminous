@@ -1,0 +1,1026 @@
+{
+	"bone_chunk_particle_count": 3,
+	"essences": [
+		{
+			"essence": "minecraft:blaze",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 3.0,
+				"type": "nether"
+			},
+			"loot": {
+				"minecraft:blaze": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.6
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:skeleton",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 3.0,
+				"type": "normal"
+			},
+			"loot": {
+				"minecraft:skeleton": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.7
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:zombie_pigman",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 20.0,
+				"type": "nether"
+			},
+			"loot": {
+				"minecraft:zombie_pigman": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.5
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:squid",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 20.0,
+				"type": "scale"
+			},
+			"loot": {
+				"minecraft:squid": {
+					"min": 1,
+					"max": 1,
+					"chance": 0.2
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:ghast",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 1.0,
+				"type": "nether"
+			},
+			"loot": {
+				"minecraft:ghast": {
+					"min": 3,
+					"max": 6,
+					"chance": 1.0
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:parrot",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 10.0,
+				"type": "fungal"
+			},
+			"loot": {
+				"minecraft:parrot": {
+					"min": 1,
+					"max": 1,
+					"chance": 0.2
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:guardian",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 1.0,
+				"type": "scale"
+			},
+			"loot": {
+				"minecraft:guardian": {
+					"min": 1,
+					"max": 3,
+					"chance": 0.8
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:cow",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 8.0,
+				"type": "normal"
+			},
+			"loot": {
+				"minecraft:cow": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.4
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:spider",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 5.0,
+				"type": "normal"
+			},
+			"loot": {},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:creeper",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 10.0,
+				"type": "ender"
+			},
+			"loot": {
+				"minecraft:creeper": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.4
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "NONE",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 20.0,
+				"type": "ender"
+			},
+			"loot": {},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:horse",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 1.0,
+				"type": "dry"
+			},
+			"loot": {
+				"minecraft:horse": {
+					"min": 1,
+					"max": 3,
+					"chance": 0.6
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:polar_bear",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 10.0,
+				"type": "frozen"
+			},
+			"loot": {
+				"minecraft:polar_bear": {
+					"min": 1,
+					"max": 3,
+					"chance": 0.6
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:bat",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 1.0,
+				"type": "normal"
+			},
+			"loot": {
+				"minecraft:bat": {
+					"min": 1,
+					"max": 1,
+					"chance": 0.1
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:witch",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 5.0,
+				"type": "fungal"
+			},
+			"loot": {
+				"minecraft:witch": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.6
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:wither_skeleton",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 1.0,
+				"type": "nether"
+			},
+			"loot": {
+				"minecraft:wither_skeleton": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.7
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:pig",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 6.0,
+				"type": "normal"
+			},
+			"loot": {
+				"minecraft:pig": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.3
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:llama",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 10.0,
+				"type": "dry"
+			},
+			"loot": {
+				"minecraft:llama": {
+					"min": 1,
+					"max": 3,
+					"chance": 0.5
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:husk",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 5.0,
+				"type": "dry"
+			},
+			"loot": {
+				"minecraft:husk": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.3
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:sheep",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 6.0,
+				"type": "normal"
+			},
+			"loot": {
+				"minecraft:sheep": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.4
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:shulker",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 1.0,
+				"type": "ender"
+			},
+			"loot": {},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:mooshroom",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 1.0,
+				"type": "fungal"
+			},
+			"loot": {
+				"minecraft:mooshroom": {
+					"min": 1,
+					"max": 3,
+					"chance": 0.6
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:cave_spider",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 1.0,
+				"type": "dry"
+			},
+			"loot": {},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:villager",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 1.0,
+				"type": "normal"
+			},
+			"loot": {
+				"minecraft:villager": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.6
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:ocelot",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 10.0,
+				"type": "fungal"
+			},
+			"loot": {
+				"minecraft:ocelot": {
+					"min": 1,
+					"max": 1,
+					"chance": 0.3
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:stray",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 1.0,
+				"type": "frozen"
+			},
+			"loot": {
+				"minecraft:stray": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.5
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:silverfish",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 1.0,
+				"type": "scale"
+			},
+			"loot": {
+				"minecraft:silverfish": {
+					"min": 1,
+					"max": 1,
+					"chance": 0.2
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:enderman",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 2.0,
+				"type": "ender"
+			},
+			"loot": {
+				"minecraft:enderman": {
+					"min": 1,
+					"max": 4,
+					"chance": 0.8
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:vindication_illager",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 5.0,
+				"type": "fungal"
+			},
+			"loot": {
+				"minecraft:vindication_illager": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.6
+				},
+				"minecraft:evocation_illager": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.6
+				}
+			},
+			"spawns": {
+				"minecraft:vindication_illager": 10.0,
+				"minecraft:evocation_illager": 1.0
+			}
+		},
+		{
+			"essence": "minecraft:endermite",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 15.0,
+				"type": "ender"
+			},
+			"loot": {
+				"minecraft:endermite": {
+					"min": 1,
+					"max": 1,
+					"chance": 0.1
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:chicken",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 8.0,
+				"type": "normal"
+			},
+			"loot": {
+				"minecraft:chicken": {
+					"min": 1,
+					"max": 1,
+					"chance": 0.2
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:snowman",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 1.0,
+				"type": "frozen"
+			},
+			"loot": {},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:zombie",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 20.0,
+				"type": "fungal"
+			},
+			"loot": {
+				"minecraft:zombie_horse": {
+					"min": 1,
+					"max": 3,
+					"chance": 0.6
+				},
+				"minecraft:zombie": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.3
+				},
+				"minecraft:zombie_villager": {
+					"min": 1,
+					"max": 2,
+					"chance": 0.5
+				}
+			},
+			"spawns": {
+				"minecraft:zombie_horse": 1.0,
+				"minecraft:zombie": 100.0,
+				"minecraft:zombie_villager": 10.0
+			}
+		},
+		{
+			"essence": "minecraft:wolf",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 5.0,
+				"type": "frozen"
+			},
+			"loot": {
+				"minecraft:wolf": {
+					"min": 1,
+					"max": 1,
+					"chance": 0.2
+				}
+			},
+			"spawns": {}
+		},
+		{
+			"essence": "minecraft:rabbit",
+			"soulbook_quantity": 16,
+			"bones": {
+				"drop_weight": 4.0,
+				"type": "normal"
+			},
+			"loot": {
+				"minecraft:rabbit": {
+					"min": 1,
+					"max": 1,
+					"chance": 0.1
+				}
+			},
+			"spawns": {}
+		}
+	],
+	"sledgehammer": {
+		"durability": 256
+	},
+	"fossil_veins": [
+		{
+			"block": "soulus:fossil_dirt",
+			"replace": "minecraft:dirt",
+			"chances": 300,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"biome_types_whitelist": [],
+			"biome_types_blacklist": [
+				"nether",
+				"ocean",
+				"end",
+				"void"
+			],
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			}
+		},
+		{
+			"block": "soulus:fossil_dirt_fungal",
+			"replace": "minecraft:dirt",
+			"chances": 300,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"biome_types_whitelist": [
+				"wet",
+				"dense"
+			],
+			"biome_types_blacklist": [],
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			}
+		},
+		{
+			"block": "soulus:fossil_dirt_frozen",
+			"replace": "minecraft:dirt",
+			"chances": 300,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"biome_types_whitelist": [
+				"cold"
+			],
+			"biome_types_blacklist": [],
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			}
+		},
+		{
+			"block": "soulus:fossil_dirt_ender",
+			"replace": "minecraft:dirt",
+			"chances": 100,
+			"size": {
+				"min": 2.0,
+				"max": 5.0
+			},
+			"biome_types_whitelist": [],
+			"biome_types_blacklist": [
+				"nether",
+				"ocean",
+				"end",
+				"void"
+			],
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			}
+		},
+		{
+			"block": "soulus:fossil_gravel_scale",
+			"replace": "minecraft:gravel",
+			"chances": 30,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"biome_types_whitelist": [
+				"ocean"
+			],
+			"biome_types_blacklist": [],
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			}
+		},
+		{
+			"block": "soulus:fossil_sand",
+			"replace": "minecraft:sand@0",
+			"chances": 50,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"biome_types_whitelist": [
+				"hot",
+				"dry"
+			],
+			"biome_types_blacklist": [
+				"nether"
+			],
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			}
+		},
+		{
+			"block": "soulus:fossil_sand_scale",
+			"replace": "minecraft:sand@0",
+			"chances": 30,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"biome_types_whitelist": [
+				"water",
+				"hot"
+			],
+			"biome_types_blacklist": [
+				"nether"
+			],
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			}
+		},
+		{
+			"block": "soulus:fossil_sand_ender",
+			"replace": "minecraft:sand@0",
+			"chances": 4,
+			"size": {
+				"min": 2.0,
+				"max": 5.0
+			},
+			"biome_types_whitelist": [
+				"hot",
+				"dry"
+			],
+			"biome_types_blacklist": [
+				"nether"
+			],
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			}
+		},
+		{
+			"block": "soulus:fossil_sand_red_dry",
+			"replace": "minecraft:sand@1",
+			"chances": 50,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"biome_types_whitelist": [
+				"hot",
+				"dry"
+			],
+			"biome_types_blacklist": [
+				"nether"
+			],
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			}
+		},
+		{
+			"block": "soulus:fossil_sand_red_scale",
+			"replace": "minecraft:sand@1",
+			"chances": 30,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"biome_types_whitelist": [
+				"hot",
+				"dry"
+			],
+			"biome_types_blacklist": [
+				"nether"
+			],
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			}
+		},
+		{
+			"block": "soulus:fossil_netherrack",
+			"replace": "minecraft:netherrack",
+			"chances": 300,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"biome_types_whitelist": [
+				"nether"
+			],
+			"biome_types_blacklist": [],
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			}
+		},
+		{
+			"block": "soulus:fossil_netherrack_ender",
+			"replace": "minecraft:netherrack",
+			"chances": 10,
+			"size": {
+				"min": 2.0,
+				"max": 5.0
+			},
+			"biome_types_whitelist": [
+				"nether"
+			],
+			"biome_types_blacklist": [],
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			}
+		},
+		{
+			"block": "soulus:fossil_end_stone",
+			"replace": "minecraft:end_stone",
+			"chances": 300,
+			"size": {
+				"min": 2.0,
+				"max": 5.0
+			},
+			"biome_types_whitelist": [
+				"end"
+			],
+			"biome_types_blacklist": [],
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			}
+		}
+	],
+	"blood_crystal": {
+		"required_blood": 1000,
+		"prick_amount": 9,
+		"prick_worth": 90,
+		"creature_prick_required_health": 9999999,
+		"creature_prick_amount": 1,
+		"creature_prick_worth": 3,
+		"particle_count": 50,
+		"prick_effects": [
+			{
+				"effect": "hunger",
+				"duration": 100
+			},
+			{
+				"effect": "nausea",
+				"duration": 200
+			}
+		]
+	},
+	"glue": {
+		"food_amount": 1,
+		"food_saturation": 0.0,
+		"food_duration": 32,
+		"food_quantity": 1,
+		"food_always_edible": true,
+		"food_effects": [
+			{
+				"effect": "nausea",
+				"duration": 200
+			}
+		]
+	},
+	"creatures": {
+		"*": {
+			"*": {
+				"minecraft:skeleton": {
+					"spawn_chance": 0.0,
+					"drops": {
+						"all": {
+							"whitelisted_drops": [
+								"*"
+							],
+							"blacklisted_drops": [
+								"minecraft:bone"
+							]
+						}
+					}
+				},
+				"minecraft:wither_skeleton": {
+					"spawn_chance": 0.0,
+					"drops": {
+						"all": {
+							"whitelisted_drops": [
+								"*"
+							],
+							"blacklisted_drops": [
+								"minecraft:bone"
+							]
+						}
+					}
+				},
+				"*": {
+					"spawn_chance": 0.0,
+					"drops": {
+						"summoned": {
+							"whitelisted_drops": [
+								"*"
+							],
+							"blacklisted_drops": []
+						}
+					}
+				}
+			}
+		}
+	},
+	"summoner_replacer": {
+		"*": {
+			"*": "normal"
+		}
+	},
+	"composer": {
+		"non_upgraded_range": 4,
+		"upgrade_range_effectiveness": 1,
+		"particle_count_activated": 3,
+		"particle_count_mob_poof": 50,
+		"poof_chance": 0.001,
+		"non_upgraded_delay": {
+			"min": 500.0,
+			"max": 1000.0
+		},
+		"non_upgraded_count": {
+			"min": 1.0,
+			"max": 2.0
+		},
+		"upgrade_delay_effectiveness": {
+			"min": 0.8,
+			"max": 1.0
+		},
+		"upgrade_max_counts": {
+			"range": 16,
+			"delay": 16
+		}
+	},
+	"skewer": {
+		"base_damage": 1.0,
+		"upgrade_damage_effectiveness": 0.04,
+		"blood_per_damage": 1,
+		"ticks_between_damage": 15,
+		"upgrade_max_counts": {
+			"crystal_blood": 1,
+			"damage": 256
+		}
+	},
+	"murky_orb": {
+		"required_essence": 128
+	},
+	"summoner": {
+		"non_upgraded_spawning_radius": 4,
+		"non_upgraded_range": 4,
+		"upgrade_count_radius_effectiveness": 0.15,
+		"upgrade_range_effectiveness": 4,
+		"particle_count_activated": 3.0,
+		"particle_count_spawn": 50,
+		"soulbook_uses": -1,
+		"soulbook_essence_required_to_insert": 0.5,
+		"non_upgraded_delay": {
+			"min": 10000.0,
+			"max": 20000.0
+		},
+		"upgrade_count_effectiveness": {
+			"min": 0.2,
+			"max": 0.5
+		},
+		"non_upgraded_count": {
+			"min": 1.0,
+			"max": 2.0
+		},
+		"upgrade_delay_effectiveness": {
+			"min": 0.8,
+			"max": 1.0
+		},
+		"upgrade_max_counts": {
+			"count": 16,
+			"delay": 16,
+			"range": 16
+		}
+	},
+	"fossil_blocks": {
+		"soulus:fossil_netherrack_ender": {
+			"min": 2,
+			"max": 6,
+			"type": "ender"
+		},
+		"soulus:fossil_sand": {
+			"min": 2,
+			"max": 6,
+			"type": "dry"
+		},
+		"soulus:fossil_sand_red_scale": {
+			"min": 2,
+			"max": 6,
+			"type": "scale"
+		},
+		"soulus:fossil_sand_ender": {
+			"min": 2,
+			"max": 6,
+			"type": "ender"
+		},
+		"soulus:fossil_dirt_ender": {
+			"min": 2,
+			"max": 6,
+			"type": "ender"
+		},
+		"soulus:fossil_dirt_frozen": {
+			"min": 2,
+			"max": 6,
+			"type": "frozen"
+		},
+		"soulus:fossil_sand_scale": {
+			"min": 2,
+			"max": 6,
+			"type": "scale"
+		},
+		"soulus:fossil_dirt_fungal": {
+			"min": 2,
+			"max": 6,
+			"type": "fungal"
+		},
+		"soulus:fossil_dirt": {
+			"min": 2,
+			"max": 6,
+			"type": "normal"
+		},
+		"soulus:fossil_end_stone": {
+			"min": 2,
+			"max": 6,
+			"type": "ender"
+		},
+		"soulus:fossil_netherrack": {
+			"min": 2,
+			"max": 6,
+			"type": "nether"
+		},
+		"soulus:fossil_sand_red_dry": {
+			"min": 2,
+			"max": 6,
+			"type": "dry"
+		},
+		"soulus:fossil_gravel_scale": {
+			"min": 2,
+			"max": 6,
+			"type": "scale"
+		}
+	},
+	"bark_from_logs": {
+		"bark_chance": 0.01,
+		"log_whitelist": [
+			"minecraft:log",
+			"minecraft:log2"
+		]
+	}
+}
